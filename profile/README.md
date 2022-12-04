@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction
-We build open hardware computers!
+🙋‍♀️ We build open hardware computers!
+See more at https://popcorncomputer.com
 
-👩‍💻 Useful resources 
-Check out our documentation!
+👩‍💻 Check out our documentation!
 https://docs.popcorncomputer.com
 https://docs.usbcomputer.com
